@@ -12,8 +12,42 @@
 </ul>
 <h2>🚀 Algunas herramientas que uso</h2>
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
-    
+    <table>
+    <tbody>
+<tr>
+<td align="center" width="20%">
+<span><b><center>MATLAB</center></b></span> 
+<img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Git</center></b></span> 
+<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Python</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/python.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>SQL</center></b></span> 
+<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>JavaScript</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>HTML</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
+</td>
+</tr>
+
+</tbody>
+</table>
 </p>
