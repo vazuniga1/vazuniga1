@@ -1,6 +1,6 @@
 
 
-<h2>Hey 👋, soy Valentina Zúñiga </h2>
+# Hey 👋, soy Valentina Zúñiga
 <p>Actualmente soy estudiante de Ingenieria Civil Electrica en la Universidad de Chile 🎯.
 </p>
 
@@ -10,7 +10,8 @@
 <ul>
     <li> </li>
 </ul>
-<h2>🚀 Algunas herramientas que uso</h2>
+
+# 🚀 Algunas herramientas que uso
 <p align="left">
     <table>
     <tbody>
