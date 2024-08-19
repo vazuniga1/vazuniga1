@@ -6,12 +6,12 @@
 
 
 <img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
-<h2>⚡️ Algunos factos rápidos</h2>
+## ⚡️ Algunos factos rápidos
 <ul>
     <li> </li>
 </ul>
 
-# 🚀 Algunas herramientas que uso
+## 🚀 Algunas herramientas que uso
 <p align="left">
     <table>
     <tbody>
