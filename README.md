@@ -22,7 +22,7 @@
 </ul>
 
 ## 🚀 Algunas herramientas que uso
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzcwcmF1cnNvY2tlcXU0dTNsemxvZnJ0cXBrdHFkbWJ0bjN1N2RseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xlA198GxRZLw1YJugx/giphy.gif" width="400" />
+<img align="right" src="https://media.giphy.com/media/xlA198GxRZLw1YJugx/giphy.gif" width="400" />
 <p align="left">
     <table>
     <tbody>
