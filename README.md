@@ -10,8 +10,7 @@
 </p> 
 
 ## ⚡️ Algunos factos rápidos
-# <img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="400" />
-<img align="right" src="https://media.giphy.com/media/xlA198GxRZLw1YJugx/giphy.gif" width="400" />
+<img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="400" />
 <ul>
     <li> Bla </li>
     <li> Bla </li>
@@ -23,7 +22,7 @@
 </ul>
 
 ## 🚀 Algunas herramientas que uso
-<img align="right" src="https://media.giphy.com/media/xlA198GxRZLw1YJugx/giphy.gif" width="400" />
+<img align="right" src="[https://media.giphy.com/media/xlA198GxRZLw1YJugx/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzcwcmF1cnNvY2tlcXU0dTNsemxvZnJ0cXBrdHFkbWJ0bjN1N2RseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xlA198GxRZLw1YJugx/giphy.webp)" width="400" />
 <p align="left">
     <table>
     <tbody>
