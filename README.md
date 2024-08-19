@@ -8,7 +8,12 @@
 <img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
 ## ⚡️ Algunos factos rápidos
 <ul>
-    <li> </li>
+    <li> Bla </li>
+    <li> Bla </li>
+    <li> Bla </li>
+    <li> Bla </li>
+    <li> Bla </li>
+    <li> Bla </li>
 </ul>
 
 ## 🚀 Algunas herramientas que uso
