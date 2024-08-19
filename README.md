@@ -7,9 +7,9 @@
 </p>
 <p>
 </p>
-<img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="400" />
 
 ## ⚡️ Algunos factos rápidos
+<img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="400" />
 <ul>
     <li> Bla </li>
     <li> Bla </li>
