@@ -22,7 +22,7 @@
 </ul>
 
 ## 🚀 Algunas herramientas que uso
-![GIF divertido](https://media.giphy.com/media/xlA198GxRZLw1YJugx/giphy.gif) 
+<img align="right" src="https://media.giphy.com/media/C8uzdnRrT8OsF8OCYH/giphy.gif" width="400" />
 <p align="left">
     <table>
     <tbody>
@@ -63,6 +63,3 @@
 </tbody>
 </table>
 </p>
-
-# Hola
-<img align="right" src="https://media.giphy.com/media/C8uzdnRrT8OsF8OCYH/giphy.gif" width="400" />
