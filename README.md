@@ -65,4 +65,4 @@
 </p>
 
 # Hola
-![GIF divertido](https://media.giphy.com/media/xlA198GxRZLw1YJugx/giphy.gif) 
+<img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="400" /> 
