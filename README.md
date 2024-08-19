@@ -7,7 +7,9 @@
 </p>
 <p>
 </p>
-<iframe src="https://giphy.com/embed/xlA198GxRZLw1YJugx" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xlA198GxRZLw1YJugx">via GIPHY</a></p> 
+</p> 
+
+<iframe src="https://giphy.com/embed/xlA198GxRZLw1YJugx" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xlA198GxRZLw1YJugx">via GIPHY</a> 
 ## ⚡️ Algunos factos rápidos
 <img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="400" />
 <ul>
