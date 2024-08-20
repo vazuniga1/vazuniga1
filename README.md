@@ -7,6 +7,7 @@
     <li> Estudiante de Ingenieria Civil Eléctrica </li>
     <li> Team gatos </li>
     <li> Tuve una gata que se llamaba RaulAmbar </li>
+    <li> Mi serie favorita es The Office </li>
 </ul>
 
 ## 💻 Algunas herramientas que uso
@@ -53,15 +54,9 @@
 <td align="center" width="20%">
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white">
 </td>
-</tr>
-
-<tr>
 <td align="center" width="20%">
         <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?logo=pytorch&logoColor=white">
     </td>
-<td align="center" width="20%">
-    <img alt="SciPy" src="https://img.shields.io/badge/SciPy%20-%230C55A5.svg?logo=scipy&logoColor=white">
-</td>
 </tr>
 
 <tr>
@@ -70,6 +65,9 @@
 </td>
 <td align="center" width="20%">
         <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib%20-%231371A2.svg?logo=matplotlib&logoColor=white">
+</td>
+<td align="center" width="20%">
+    <img alt="SciPy" src="https://img.shields.io/badge/SciPy%20-%230C55A5.svg?logo=scipy&logoColor=white">
 </td>
 </tr>
 </tbody>
