@@ -3,7 +3,6 @@
 # Hey 👋, soy Valentina
 
 ## ⚡️ Algunos factos rápidos
-<img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" height = "200"/>
 <ul>
     <li> Estudiante de Ingenieria Civil Eléctrica </li>
     <li> Team gatos </li>
