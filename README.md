@@ -1,10 +1,12 @@
 
 
-# Hey 👋, soy Valentina
+# Hey 👋, soy Valentina Zúñiga
 
-## ⚡️ Algunos factos rápidos
+## Sobre mi
+Soy estudiante de Ingeniería Civil Eléctrica de la Universidad de Chile. Actualmente estoy realizando mi memoria "Asignación automática de etiquetas en patrones de herencia cultural utilizando Modelos de Lenguaje Multimodal". 
+
+## ⚡️ Datos rápidos 
 <ul>
-    <li> Estudiante de Ingenieria Civil Eléctrica </li>
     <li> Team gatos </li>
     <li> Tuve una gata que se llamaba RaulAmbar </li>
     <li> Mi serie favorita es The Office </li>
