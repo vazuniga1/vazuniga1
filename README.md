@@ -1,9 +1,9 @@
 
 
-# Hey 👋, soy Valentina Zúñiga
+# Valentina Zúñiga
 
 ## Sobre mi
-Soy estudiante de Ingeniería Civil Eléctrica de la Universidad de Chile. Actualmente estoy realizando mi memoria "Asignación automática de etiquetas en patrones de herencia cultural utilizando Modelos de Lenguaje Multimodal". 
+Soy titulada de Ingeniería Civil Eléctrica de la Universidad de Chile. Actualmente estoy realizando mi memoria "Asignación automática de etiquetas en patrones de herencia cultural utilizando Modelos de Lenguaje Multimodal". 
 
 ## ⚡️ Datos rápidos 
 <ul>
